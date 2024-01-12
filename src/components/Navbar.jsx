@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 import SearchBar from "./SearchBar";
 
-import { logo, utils } from "../utils.js/constants";
+import { logo, utils } from "../utils/constants";
 
 const Navbar = () => {
   return (
