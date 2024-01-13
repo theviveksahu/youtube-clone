@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Card, CardContent, Stack, Box } from "@mui/material";
+import { Stack, Box } from "@mui/material";
 
 import { VideoCard, ChannelCard, Loader } from "./";
 
